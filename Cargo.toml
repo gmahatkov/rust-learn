@@ -1,0 +1,10 @@
+[package]
+name = "rust-learning"
+version = "0.1.0"
+authors = ["Greg Mahatkov <gr.mahatkov@gmail.com>"]
+
+[dependencies]
+
+[[bin]]
+name = "rust-learning"
+path = "src/main.rs"
